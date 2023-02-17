@@ -1,0 +1,13 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "656TD8GM9B.land.fx.fotos" ],
+             "paths": ["shared/*"]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "656TD8GM9B.land.fx.fotos" ]
+   }
+}
