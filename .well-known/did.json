@@ -3,12 +3,12 @@
         "https://www.w3.org/ns/did/v1",
         "https://w3id.org/security/suites/jws-2020/v1"
     ],
-    "id": "did:web:gaiaxroms.chainstep-demo.de",
+    "id": "did:web:gaiax.chainstep-demo.de",
     "verificationMethod": [
         {
-            "id": "did:web:gaiaxroms.chainstep-demo.de#owner",
+            "id": "did:web:gaiax.chainstep-demo.de#owner",
             "type": "JsonWebKey2020",
-            "controller": "did:web:gaiaxroms.chainstep-demo.de",
+            "controller": "did:web:gaiax.chainstep-demo.de",
             "publicKeyJwk": {
                 "kty": "EC",
                 "crv": "secp256k1",
@@ -18,9 +18,9 @@
         }
     ],
     "authentication": [
-        "did:web:gaiaxroms.chainstep-demo.de#owner"
+        "did:web:gaiax.chainstep-demo.de#owner"
     ],
     "assertionMethod": [
-        "did:web:gaiaxroms.chainstep-demo.de#owner"
+        "did:web:gaiax.chainstep-demo.de#owner"
     ]
 }
